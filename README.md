@@ -1,4 +1,4 @@
-# SQL-EXPLORATORY-DATA-ANALYSIS-PROJECT
+# SQL-EDA & DATA-ANALYSIS-PROJECT
 
 **SQL Scripts for EDA and Advanced Analytics
 This repository brings together a wide range of SQL queries tailored for exploratory data analysis and business reporting. The scripts are organized around common analytical needs such as:
